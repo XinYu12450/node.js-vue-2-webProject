@@ -9,3 +9,8 @@ npm run serve
 ```
 npm run build
 ```
+
+### node.js  使用express框架，作为该前端项目请求后端
+```
+http://idontkonwwheretheproject.com
+```
