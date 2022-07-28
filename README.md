@@ -1,24 +1,11 @@
-# test_demo
+# vue2单页面仿小米有品项目
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
+### 当前项目为脚手架驱动的开发模式
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包放入后端使用
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
